@@ -16,4 +16,4 @@ const taby = () => {
     }
     return Total;
 }
-console.log(taby());
+alert(taby());
